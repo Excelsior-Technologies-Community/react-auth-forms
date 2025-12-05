@@ -1,4 +1,3 @@
----
 # 📂 React Auth Forms
 
 A simple and clean **React + Node.js + MongoDB authentication system** where users can **signup, login, and receive JWT tokens**. The frontend communicates with the backend API via **Axios**.
@@ -9,27 +8,27 @@ A simple and clean **React + Node.js + MongoDB authentication system** where use
 
 ### **Signup Page**
 
-📷 [Signup Page](./screenshots/SignuUp.png)
+![Signup Page](./screenshots/SignUp.png)
 
-### **Signup Page success**
+### **Signup Page Success**
 
-📷 [Signup Page](./screenshots/SignuUpDone.png)
+![Signup Success](./screenshots/SignUpDone.png)
 
 ### **Login Page**
 
-📷 [Login Page](./screenshots/Login.png)
+![Login Page](./screenshots/Login.png)
 
 ### **Success**
 
-📷 [Success](./screenshots/SuccessLogin.png)
+![Success](./screenshots/SuccessLogin.png)
 
 ### **MongoDB**
 
-📷 [MongoDB](./screenshots/MongoDB.png)
+![MongoDB](./screenshots/MongoDB.png)
 
 ### **Error**
 
-📷 [Error](./screenshots/ErrorMessage.png)
+![Error](./screenshots/ErrorMessage.png)
 
 ---
 
@@ -49,8 +48,8 @@ A simple and clean **React + Node.js + MongoDB authentication system** where use
 
 ## 🛠 Technologies
 
-**Frontend:** React, Axios, React Router, CSS
-**Backend:** Node.js, Express.js, MongoDB, Mongoose, bcrypt, JWT
+**Frontend:** React, Axios, React Router, CSS  
+**Backend:** Node.js, Express.js, MongoDB, Mongoose, bcrypt, JWT  
 **Other:** Nodemon, dotenv, cors
 
 ---
@@ -174,8 +173,6 @@ Backend runs at: **[http://localhost:5000](http://localhost:5000)**
 * Form validation and error handling
 * MongoDB + Mongoose setup
 * Environment variable management
-
----
 
 
 
